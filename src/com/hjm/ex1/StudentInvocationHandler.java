@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 /**
  * @Author: hjm
  * @Date: 2025/02/28/14:12
- * @Description:
+ * @Description: 代理类
  */
 public class StudentInvocationHandler implements InvocationHandler {
     private final Object target;

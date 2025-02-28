@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 /**
  * @Author: hjm
  * @Date: 2025/02/28/14:09
- * @Description:
+ * @Description: 反射构建student对象
  */
 public class ReflectionExample {
     public static void main(String[] args) throws ClassNotFoundException {

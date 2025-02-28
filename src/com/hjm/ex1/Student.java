@@ -3,7 +3,7 @@ package com.hjm.ex1;
 /**
  * @Author: hjm
  * @Date: 2025/02/28/14:05
- * @Description:
+ * @Description: Student类
  */
 public class Student implements IStudent{
     private int id;
