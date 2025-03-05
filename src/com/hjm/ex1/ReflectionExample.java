@@ -18,7 +18,6 @@ public class ReflectionExample {
 
             // 使用构造函数创建Student对象
             Object student = constructor.newInstance(1, "Liming", 21);
-
             System.out.println("反射创建的Student对象: " + student);
         } catch (ClassNotFoundException | NoSuchMethodException | InstantiationException |
                  IllegalAccessException | InvocationTargetException e) {
